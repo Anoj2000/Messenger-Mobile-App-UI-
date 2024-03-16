@@ -1,0 +1,11 @@
+<!-- circle_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background circle shape -->
+    <item android:drawable="@drawable/circle" />
+
+    <!-- Photo as the top layer, fitted inside the circle without distortion -->
+    <item android:gravity="center">
+        <bitmap android:src="@drawable/profile"
+            android:scaleType="centerCrop" />
+    </item>
+</layer-list>

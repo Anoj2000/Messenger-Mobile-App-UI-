@@ -1,0 +1,72 @@
+<resources>
+    <string name="Messenger_App" translatable="false">Messenger App</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="don_t_have_an_account_sign_up" translatable="false">Don’t have an account? Sign up</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="textview" translatable="false">Profile</string>
+    <string name="user_name" translatable="false">User Name</string>
+    <string name="bio" translatable="false">Bio</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="online" translatable="false">online</string>
+    <string name="call" translatable="false" >Call</string>
+    <string name="inbox" translatable="false">Inbox</string>
+    <string name="yesterday" translatable="false">yesterday</string>
+    <string name="image" translatable="false">🖼️</string>
+    <string name="happy_birthday_bro" translatable="false">Happy birthday bro!</string>
+    <string name="enter_your_10_digit_mobile_number_to_continue" translatable="false">Enter your 10-digit mobile number to continue.</string>
+    <string name="_94" translatable="false">+94</string>
+    <string name="phone" translatable="false">Phone</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="anoj" translatable="false">Anoj</string>
+    <string name="resend_otp" translatable="false">Resend OTP</string>
+    <string name="please_enter_your_correct_otp_for_number_verification_process" translatable="false">Please enter your correct OTP for number verification process.</string>
+    <string name="otp_verification" translatable="false">OTP verification</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="welcome_to_messenger_a_great_friend_to_chat_with_you" translatable="false">Welcome to Messenger, a great friend to chat with you</string>
+    <string name="anything_exciting_happening" translatable="false">Anything exciting happening?</string>
+    <string name="hey" translatable="false">Hey!</string>
+    <string name="hey_there" translatable="false">Hey there!</string>
+    <string name="how_about_you" translatable="false">How about you?</string>
+    <string name="i_m_fine" translatable="false">I\'m fine!</string>
+    <string name="not_really_just_the_usual" translatable="false">Not really, just the usual.</string>
+    <string name="catch_you_later" translatable="false">Catch you later!</string>
+    <string name="yasiru" translatable="false">Yasiru</string>
+    <string name="_19_57pm" translatable="false">19:57pm</string>
+    <string name="_20_02pm" translatable="false">20:02pm</string>
+    <string name="_20_05pm" translatable="false">20:05pm</string>
+    <string name="_20_07pm" translatable="false">20:07pm</string>
+    <string name="_21_03pm" translatable="false">21:03pm</string>
+    <string name="_21_05pm" translatable="false">21:05pm</string>
+    <string name="messeage" translatable="false">Messeage</string>
+    <string name="accecpt" translatable="false">Accecpt</string>
+    <string name="cancle" translatable="false">Cancle</string>
+    <string name="dont_have_an_account_register" translatable="false">Dont have an account Register</string>
+    <string name="malisha" translatable="false">Malisha</string>
+    <string name="available" translatable="false">available</string>
+    <string name="search_contact" translatable="false">search contact</string>
+    <string name="dahasun" translatable="false">Dahasun</string>
+    <string name="pulasthi" translatable="false">Pulasthi</string>
+    <string name="chavidu" translatable="false">Chavidu</string>
+    <string name="nisalka" translatable="false">Nisalka</string>
+    <string name="how_was_your_week" translatable="false">How was your week?</string>
+    <string name="at_work" translatable="false">At work</string>
+    <string name="enjoy" translatable="false">Enjoy</string>
+    <string name="free" translatable="false">Free</string>
+    <string name="busy" translatable="false">Busy</string>
+    <string name="TalkWave" translatable="false">Talk Wave</string>
+    <string name="calling" translatable="false">Calling</string>
+    <string name="savechanges" translatable="false">Save changes</string>
+    <string name="_05_12am" translatable="false">05:12am</string>
+    <string name="_00_47pm" translatable="false">00:47pm</string>
+    <string name="_19_55pm" translatable="false">19:55pm</string>
+    <string name="_22_13pm" translatable="false">22:13pm</string>
+    <string name="how_are_you" translatable="false" >How are you ?</string>
+    <string name="ok_bro" translatable="false">Ok bro</string>
+    <string name="how_was_studies" translatable="false">How was studies....</string>
+    <string name="_20_04pm" translatable="false">20:04pm</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_0" translatable="false">0</string>
+</resources>
